@@ -5,6 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhargenuine321&label=Profile%20views&color=0e75b6&style=flat" alt="prakhargenuine321" /> </p>
+<a href="https://wakatime.com/@dd42002e-e76e-4f51-ba93-a982a8b5dcc7"><img src="https://wakatime.com/badge/user/dd42002e-e76e-4f51-ba93-a982a8b5dcc7.svg" alt="Total time coded since Jul 28 2024" /></a>
 
 <p align="left"> <a href="https://twitter.com/prakhargenuine" target="blank"><img src="https://img.shields.io/twitter/follow/prakhargenuine?logo=twitter&style=for-the-badge" alt="prakhargenuine" /></a> </p>
 
