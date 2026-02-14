@@ -30,7 +30,7 @@
 
 ---
 
-# 🧠 GLASS DASHBOARD
+# 🧠 DASHBOARD
 
 <table align="center">
 <tr>
