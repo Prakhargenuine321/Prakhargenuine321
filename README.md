@@ -1,14 +1,20 @@
-<!-- ================= HOLOGRAM NAME ================= -->
+<!-- ================= HOLOGRAM NAME OVERLAY ================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=52&duration=2600&pause=900&color=22F7FF&center=true&vCenter=true&width=900&lines=Prakhar+Patel;AI+Engineer;MERN+Stack+Developer;Future+Tech+Innovator" />
+<p align="center" style="margin-top:-180px;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=52&duration=2600&pause=900&color=22F7FF&center=true&vCenter=true&width=900&lines=Prakhar+Patel;UI/UX+Enthusiast;MERN+Stack+Developer;Future+Tech+Innovator" />
 </p>
 
-<!-- ================= PREMIUM GLASS BANNER ================= -->
+<!-- ================= FLOATING MATRIX BACKGROUND ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:1e3a8a&height=220&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=34&fontColor=22F7FF&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 </p>
+
+
+
+<!-- spacing fix so next section not overlap -->
+<br><br>
+>
 
 <!-- ================= AVATAR ================= -->
 
@@ -34,8 +40,8 @@
 - 🎓 B.Tech CSE Graduate (2025)  
 - 🤖 Learning **AI Engineering + MERN**  
 - 🧠 Building **AI SaaS & real-world projects**  
-- 🎯 Target → **High-package job + AI startup**  
-- 🔥 Mission → **Top 1% Engineer**
+- 🎯 Target → **Developer who can solve real-world problems**  
+- 🔥 Mission → **Stay consistent Stay discipline**
 
 </td>
 <td width="50%">
@@ -51,7 +57,7 @@
 
 ---
 
-# 📊 CYBER STATS MATRIX
+# 📊 STATS MATRIX
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prakhargenuine321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22F7FF&icon_color=22F7FF" />
@@ -90,5 +96,7 @@
 
 🐍 CONTRIBUTION SNAKE
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p> <!-- ================= NEON DIVIDER ================= --> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-4f1e-9e3f-5e0c9c6b2b1b.gif" width="100%" /> </p>
-🌐 CYBER CONNECT PANEL
-<p align="center"> <a href="https://github.com/Prakhargenuine321"> <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22F7FF" /> </a> <a href="https://linkedin.com/in/prakhar-patel-450242248/"> <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22F7FF" /> </a> <a href="mailto:prakhargenuine9336@gmail.com"> <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=22F7FF" /> </a> <a href="https://leetcode.com/prakhargenuine9336/"> <img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=22F7FF" /> </a> </p> <!-- ================= GAMING-STYLE NEON GRID FOOTER ================= --> <p align="center"> <img src="https://media.githubusercontent.com/media/platane/snk/output/github-contribution-grid-snake.svg" width="100%" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:22F7FF&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=24&fontColor=ffffff" /> </p>
+🌐 CONNECT WITH ME ON
+<p align="center"> <a href="https://github.com/Prakhargenuine321"> <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22F7FF" /> </a> <a href="https://linkedin.com/in/prakhar-patel-450242248/"> <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22F7FF" /> </a> <a href="mailto:prakhargenuine9336@gmail.com"> <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=22F7FF" /> </a> <a href="https://leetcode.com/prakhargenuine9336/"> <img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=22F7FF" /> </a> 
+</p> <!-- ================= GAMING-STYLE NEON GRID FOOTER ================= -->
+<p align="center"> <img src="https://media.githubusercontent.com/media/platane/snk/output/github-contribution-grid-snake.svg" width="100%" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:22F7FF&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=24&fontColor=ffffff" /> </p>
